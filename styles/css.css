@@ -1,0 +1,40 @@
+.container{
+    /*width: 600px; 
+    height: 700px;*/
+     margin: 2% 25%;
+     border-top:groove 2px red;
+     border-bottom:groove 2px green;
+     border-left:groove 2px blue;
+     border-right:groove 2px yellow;
+     border-radius: 10px 10px;
+    color:#000!important;
+    background-color:#e9d2d2!important;
+}
+.text{
+	padding: 15px;
+	margin-left: 10px;
+	font-size: 1em;
+}
+.btn1{
+	 border-top:groove 2px red;
+     border-bottom:groove 2px green;
+     border-left:groove 2px blue;
+     border-right:groove 2px yellow;
+     border-radius: 10px;
+}
+.btn1:hover{
+ background-color: green;
+ cursor: pointer;
+}
+.upload_img{
+    background-image: url("../img/itel.jpg");
+}
+#facture{
+    position: absolute;
+    margin-top:-740px; 
+    margin-left: 700px;
+   
+}
+.create{
+    margin: 25% 35%;
+}
